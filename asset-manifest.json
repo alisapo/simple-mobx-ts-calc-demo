@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/simple-mobx-ts-calc-demo/static/css/main.3d8c5482.chunk.css",
-    "main.js": "/simple-mobx-ts-calc-demo/static/js/main.d04cb7d9.chunk.js",
-    "main.js.map": "/simple-mobx-ts-calc-demo/static/js/main.d04cb7d9.chunk.js.map",
+    "main.css": "/simple-mobx-ts-calc-demo/static/css/main.e18981cd.chunk.css",
+    "main.js": "/simple-mobx-ts-calc-demo/static/js/main.29ad6c77.chunk.js",
+    "main.js.map": "/simple-mobx-ts-calc-demo/static/js/main.29ad6c77.chunk.js.map",
     "runtime-main.js": "/simple-mobx-ts-calc-demo/static/js/runtime-main.cb82c35f.js",
     "runtime-main.js.map": "/simple-mobx-ts-calc-demo/static/js/runtime-main.cb82c35f.js.map",
     "static/js/2.279fe62d.chunk.js": "/simple-mobx-ts-calc-demo/static/js/2.279fe62d.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.0fc12241.chunk.js": "/simple-mobx-ts-calc-demo/static/js/3.0fc12241.chunk.js",
     "static/js/3.0fc12241.chunk.js.map": "/simple-mobx-ts-calc-demo/static/js/3.0fc12241.chunk.js.map",
     "index.html": "/simple-mobx-ts-calc-demo/index.html",
-    "static/css/main.3d8c5482.chunk.css.map": "/simple-mobx-ts-calc-demo/static/css/main.3d8c5482.chunk.css.map",
+    "static/css/main.e18981cd.chunk.css.map": "/simple-mobx-ts-calc-demo/static/css/main.e18981cd.chunk.css.map",
     "static/js/2.279fe62d.chunk.js.LICENSE.txt": "/simple-mobx-ts-calc-demo/static/js/2.279fe62d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb82c35f.js",
     "static/js/2.279fe62d.chunk.js",
-    "static/css/main.3d8c5482.chunk.css",
-    "static/js/main.d04cb7d9.chunk.js"
+    "static/css/main.e18981cd.chunk.css",
+    "static/js/main.29ad6c77.chunk.js"
   ]
 }
